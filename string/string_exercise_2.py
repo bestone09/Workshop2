@@ -13,6 +13,6 @@ print(string.lower())
 # จงเขียนคำสั่งเพื่อแสดข้อความ "I am the best programmer" ที่ถูกแทนที่อักษร e ด้วย z ทั้งหมด
 print(string.replace("e", "z"))
 # จงเติมคำในช่องว่าเพื่อแสดงชื่อ
-myname = "Sornrham"
+myname = "sornrham"
 txt = "{} is the best programmer"
 print(txt.format(myname))
