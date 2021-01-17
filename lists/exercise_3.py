@@ -4,7 +4,7 @@ print(animal[2])
 
 # จงแก้ไขข้อมูลจาก "cat" เป็น "hen"
 animal = ["cat", "bat", "rat", "dog"]
-animal[0] = hen
+animal[0] = "hen"
 
 # จงเพิ่ม "hen" ไปยัง animal list
 animal = ["cat", "bat", "rat", "dog"]
