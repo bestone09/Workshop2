@@ -8,11 +8,11 @@ animal[0] = hen
 
 # จงเพิ่ม "hen" ไปยัง animal list
 animal = ["cat", "bat", "rat", "dog"]
-animal.append("orange")
+animal.append("hen")
 
 # จงเพิ่ม "hen" ไประหว่าง "rat" กับ "ิิdog"
 animal = ["cat", "bat", "rat", "dog"]
-animal.append(3, "orange")
+animal.append(3, "hen")
 
 # จงลบ "rat" จาก list
 animal = ["cat", "bat", "rat", "dog"]
