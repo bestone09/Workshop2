@@ -1,8 +1,8 @@
 pub_ao_udom_set = {"อ่าวอุดมสโมสร", "สิบสามห้าง", "20flow", "SevenDays"}
 
 # 1.จงเขียนคำสั่งเพื่อแสดงค่าของใน pub_ao_udom_set ทั้งหมด
-for x in pub_ao_udom_set:
-    print(x)
+for bar in pub_ao_udom_set:
+    print(bar)
 
 # 2.จงเขียนคำสั่งเพื่อเพิ่มค่าใน pub_ao_udom_set โดยเพิ่ม "Oldise" ลงไป
 pub_ao_udom_set.add("Oldise")

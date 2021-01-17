@@ -1,16 +1,16 @@
-thislset = {"apple", "banana", "cherry"}
-thislset.remove("banana")
-print(thislset)
+thisset = {"apple", "banana", "cherry"}
+thisset.remove("banana")
+print(thisset)
 
-thislset = {"apple", "banana", "cherry"}
-thislset.discard("banana")
-print(thislset)
+thisset = {"apple", "banana", "cherry"}
+thisset.discard("banana")
+print(thisset)
 
-thislset = {"apple", "banana", "cherry"}
-x = thislset.pop()
-print(thislset)
+thisset = {"apple", "banana", "cherry"}
+x = thisset.pop()
+print(thisset)
 
 
-thislset = {"apple", "banana", "cherry"}
-thislset.clear()
-print(thislset)
+thisset = {"apple", "banana", "cherry"}
+thisset.clear()
+print(thisset)
